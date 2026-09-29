@@ -1,37 +1,77 @@
-<h1 align="center">Hi, I'm Htoo Aung Ye Yint (Kei) 👋</h1>
-<h3 align="center">Software Engineer · Full-Stack Developer</h3>
+<!-- synthwave profile README — keix40 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0:bc13fe,100:00f5ff&height=120&section=header&text=Kei&fontSize=42&fontAlignY=35&desc=Htoo%20Aung%20Ye%20Yint&descAlignY=55&descSize=16&animation=twinkling" width="100%" alt="Header banner"/>
+
+<h2 align="center">Full-Stack Developer · Software Engineer</h2>
 
 <p align="center">
-  I build full-stack web applications with C#/ASP.NET Core, Java/Spring Boot and Angular,<br>
-  and I ship them to the cloud with Docker, Render and Vercel.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+Angular+%7C+React;Shipped+on+Render+%26+Vercel;3D+portfolios+%26+real-time+apps" alt="Typing intro"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keix40&label=Profile%20views&color=bc13fe&style=for-the-badge" alt="Profile views"/>
+</p>
+
+---
+
+## 👋 About Me
+
+I'm **Htoo Aung Ye Yint (Kei)** — a full-stack developer based in **Myanmar** (`Asia/Rangoon`). I like taking ideas from database schema to deployed UI: **C# / ASP.NET Core**, **Java / Spring Boot**, **Angular**, **TypeScript**, and **SQL**, with **Docker** on **Render** and **Vercel**.
+
+```typescript
+const kei = {
+  location: "Myanmar (Asia/Rangoon)",
+  focus: ["Full-stack web", "API design", "Cloud deploys"],
+  building: [
+    "Britium Gallery — e-commerce (Spring Boot + Angular)",
+    "receipt-split — AI receipt OCR & fair bill splitting",
+    "liveboard — multiplayer offline-first whiteboard",
+  ],
+  exploring: ["Real-time CRDTs (Yjs)", "Three.js / R3F", "Next.js App Router"],
+  openTo: ["Collaboration on interesting web projects", "Full-stack or backend roles"],
+  reachMe: "htooaungyeyint65@gmail.com",
+};
+```
+
+| | |
+| :--- | :--- |
+| 🔭 **Now** | Polishing **receipt-split** and **liveboard**; keeping **Britium Gallery** (`OjtFinalProject`) deploy-ready |
+| 📚 **Learning** | Deeper **real-time sync**, **3D on the web**, and production **Postgres** patterns |
+| 🤝 **Open to** | Pairing on full-stack apps, open-source contributions, and remote-friendly opportunities |
+| 🎮 **Into** | Interactive **3D** sites, polished **admin dashboards**, and tools that feel good to use |
+| ☕ **Outside code** | <!-- PERSONAL: e.g. football, music, games — your call --> _Add a line about hobbies you’re happy to share_ |
+
+<p align="center"><i>“Build it end-to-end, then make it feel fast.”</i></p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,java,ts,js,html,css&perline=6" alt="Languages"/>
+</p>
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center"><b>Frameworks & libraries</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,angular,react,nextjs,tailwind&perline=6" alt="Frameworks"/>
+</p>
 
-### Frameworks
+<p align="center"><b>Data, tooling & cloud</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,postgres,mysql,redis&perline=6" alt="Data and tools"/>
+</p>
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
+<p align="center"><b>Deploy & 3D</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,render,threejs,vite&perline=4" alt="Deploy and 3D"/>
+</p>
 
-### Tools & Cloud
-
-![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Aiven MySQL](https://img.shields.io/badge/Aiven%20MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Aiven%20MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="Aiven MySQL"/>
+  <img src="https://img.shields.io/badge/JWT-Spring%20Security-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Drizzle-ORM-000000?style=flat-square&logo=postgresql&logoColor=white" alt="Drizzle"/>
+  <img src="https://img.shields.io/badge/Yjs-CRDT-f7df1e?style=flat-square" alt="Yjs"/>
+</p>
 
 ---
 
@@ -50,11 +90,14 @@
 
 ## 🚀 Featured Projects
 
-| Title | Tech Stack | Repo Link |
-| --- | --- | --- |
-| E-commerce Platform (OjtFinalProject) | Java 17 · Spring Boot 3 · Spring Security + JWT · Angular 19 · Tailwind CSS · PostgreSQL / MySQL · Docker · Render · Vercel | [keix40/OjtFinalProject](https://github.com/keix40/OjtFinalProject) |
-| 3dprofolio | React 19 · Vite · Three.js (React Three Fiber, Drei) · GSAP · Framer Motion · Tailwind CSS | [keix40/3dprofolio](https://github.com/keix40/3dprofolio) |
-| <!-- add project --> _Coming soon_ | <!-- add project --> | <!-- add project --> |
+| Project | Highlights | Links |
+| :--- | :--- | :--- |
+| **Britium Gallery** | E-commerce with **Spring Boot 3**, **JWT** auth, **Angular 19**, admin portal, reporting, deploy on **Render** + **Vercel**, **MySQL** (e.g. Aiven) | [Repo](https://github.com/keix40/OjtFinalProject) · [Live](https://ojt-final-project.vercel.app/) |
+| **3dprofolio** | **React 19**, **Three.js**, React Three Fiber, Drei, **GSAP**, Framer Motion, **Tailwind** | [Repo](https://github.com/keix40/3dprofolio) · [Live](https://3dprofolio.vercel.app/) |
+| **receipt-split** | **Next.js 16**, vision **OCR** (AI SDK), cent-exact bill split, **Postgres** + Drizzle, **Vercel** | [Repo](https://github.com/keix40/receipt-split) · Demo _coming soon_ |
+| **liveboard** | **Yjs** CRDT, WebSockets, offline-first whiteboard, **Next.js** + Node sync on **Render** | [Repo](https://github.com/keix40/liveboard) · Demo <!-- LIVEBOARD_DEMO_URL: add when deployed --> _TBD_ |
+
+<!-- PROJECT_ROW: duplicate a table row above when you ship something new -->
 
 ---
 
@@ -72,6 +115,24 @@
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:htooaungyeyint65@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/htoo-aung-ye-yint-950417285)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://3dprofolio.vercel.app/)
+<p align="center">
+  <a href="mailto:htooaungyeyint65@gmail.com">
+    <img src="https://img.shields.io/badge/Email-htooaungyeyint65@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/htoo-aung-ye-yint-950417285">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://3dprofolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-3dprofolio-FF00FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/keix40">
+    <img src="https://img.shields.io/badge/GitHub-keix40-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- AVAILABILITY: optional — e.g. "Open to internships / freelance / full-time" -->
+  _Feel free to reach out — happy to chat about code, collabs, or opportunities._
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0:bc13fe,100:00f5ff&height=100&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontAlignY=65&animation=twinkling" width="100%" alt="Footer banner"/>
