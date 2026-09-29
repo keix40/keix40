@@ -107,8 +107,8 @@ const kei = {
 | :--- | :--- | :--- |
 | **Britium Gallery** | E-commerce with **Spring Boot 3**, **JWT** auth, **Angular 19**, admin portal, reporting, deploy on **Render** + **Vercel**, **MySQL** (e.g. Aiven) | [Repo](https://github.com/keix40/OjtFinalProject) · [Live](https://ojt-final-project.vercel.app/) |
 | **3dprofolio** | **React 19**, **Three.js**, React Three Fiber, Drei, **GSAP**, Framer Motion, **Tailwind** | [Repo](https://github.com/keix40/3dprofolio) · [Live](https://3dprofolio.vercel.app/) |
-| **receipt-split** | **Next.js 16**, vision **OCR** (AI SDK), cent-exact bill split, **Postgres** + Drizzle, **Vercel** | [Repo](https://github.com/keix40/receipt-split) · Demo _coming soon_ |
-| **liveboard** | **Yjs** CRDT, WebSockets, offline-first whiteboard, **Next.js** + Node sync on **Render** | [Repo](https://github.com/keix40/liveboard) · Demo <!-- LIVEBOARD_DEMO_URL: add when deployed --> _TBD_ |
+| **receipt-split** | **Next.js 16**, vision **OCR** (AI SDK), cent-exact bill split, **Postgres** + Drizzle, **Vercel** | [Repo](https://github.com/keix40/receipt-split) · [Live](https://receipt-split-gamma-sable.vercel.app/) |
+| **liveboard** | **Yjs** CRDT, WebSockets, offline-first whiteboard, **Next.js** + Node sync on **Render** | [Repo](https://github.com/keix40/liveboard) · [Live](https://liveboard-lyart.vercel.app/) |
 
 <!-- PROJECT_ROW: duplicate a table row above when you ship something new -->
 
