@@ -13,34 +13,43 @@
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm **Htoo Aung Ye Yint (Kei)** — a full-stack developer based in **Myanmar** (`Asia/Rangoon`). I like taking ideas from database schema to deployed UI: **C# / ASP.NET Core**, **Java / Spring Boot**, **Angular**, **TypeScript**, and **SQL**, with **Docker** on **Render** and **Vercel**.
+Hello! I'm a passionate **Software Engineering Student & Developer** driven by building scalable systems, exploring cybersecurity, and crafting seamless developer workflows.
+
+- 🔭 **Currently Building:** Enterprise multi-tenant web applications, real-time collaboration engines, and developer automation tools.
+- 🌱 **Currently Learning:** Advanced German (Deutsch), Linux Terminal Security & Command-line challenges (OverTheWire Bandit), and 3D Modeling with Blender.
+- 💬 **Ask Me About:** C#, ASP.NET Core, Java, Spring Boot, Angular, SQL Databases, Git Workflows, and Linux CLI.
+- ⚡ **Fun Fact / Outside Code:** When I'm not writing code or solving security challenges, you’ll find me playing the guitar, sketching 3D models in Blender, or playing video games like League of Legends, TFT, and PUBG.
+
+---
+
+### 📊 Snapshot
+
+| Category | Focus Area |
+| :--- | :--- |
+| **Now** | ASP.NET Core, Spring Boot, Angular, SQL, Cloud Deployment (Vercel, Render) |
+| **Learning** | German Language, Cybersecurity / Linux Fundamentals, Blender 3D |
+| **Interests** | Backend Architecture, Web Security, Developer Tools, Guitar |
+| **Availability** | Open for Internships, Junior Software Engineering Roles & Freelance Projects |
 
 ```typescript
 const kei = {
-  location: "Myanmar (Asia/Rangoon)",
-  focus: ["Full-stack web", "API design", "Cloud deploys"],
-  building: [
-    "Britium Gallery — e-commerce (Spring Boot + Angular)",
-    "receipt-split — AI receipt OCR & fair bill splitting",
-    "liveboard — multiplayer offline-first whiteboard",
+  role: "Software Engineering student & developer",
+  learning: [
+    "German (Deutsch)",
+    "Linux security — OverTheWire Bandit",
+    "Blender 3D modeling",
   ],
-  exploring: ["Real-time CRDTs (Yjs)", "Three.js / R3F", "Next.js App Router"],
-  openTo: ["Collaboration on interesting web projects", "Full-stack or backend roles"],
-  reachMe: "htooaungyeyint65@gmail.com",
+  interests: [
+    "Backend architecture",
+    "Web security",
+    "Developer tools",
+    "Guitar",
+  ],
+  openTo: ["Internships", "Junior software engineering roles", "Freelance projects"],
 };
 ```
-
-| | |
-| :--- | :--- |
-| 🔭 **Now** | Polishing **receipt-split** and **liveboard**; keeping **Britium Gallery** (`OjtFinalProject`) deploy-ready |
-| 📚 **Learning** | Deeper **real-time sync**, **3D on the web**, and production **Postgres** patterns |
-| 🤝 **Open to** | Pairing on full-stack apps, open-source contributions, and remote-friendly opportunities |
-| 🎮 **Into** | Interactive **3D** sites, polished **admin dashboards**, and tools that feel good to use |
-| ☕ **Outside code** | <!-- PERSONAL: e.g. football, music, games — your call --> _Add a line about hobbies you’re happy to share_ |
-
-<p align="center"><i>“Build it end-to-end, then make it feel fast.”</i></p>
 
 ---
 
@@ -131,8 +140,7 @@ const kei = {
 </p>
 
 <p align="center">
-  <!-- AVAILABILITY: optional — e.g. "Open to internships / freelance / full-time" -->
-  _Feel free to reach out — happy to chat about code, collabs, or opportunities._
+  Open for internships, junior software engineering roles, and freelance projects
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0:bc13fe,100:00f5ff&height=100&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontAlignY=65&animation=twinkling" width="100%" alt="Footer banner"/>
