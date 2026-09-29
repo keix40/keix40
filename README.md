@@ -38,8 +38,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keix40&show_icons=true&theme=synthwave&hide_border=true" alt="Kei's GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keix40&layout=compact&theme=synthwave&hide_border=true" alt="Top languages" height="170">
+  <img src="./profile/stats.svg" alt="Kei's GitHub stats" height="170">
+  <img src="./profile/top-langs.svg" alt="Top languages" height="170">
 </p>
 
 <p align="center">
