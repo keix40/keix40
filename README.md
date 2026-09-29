@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm a passionate **Software Engineering Student & Developer** driven by building scalable systems, exploring cybersecurity, and crafting seamless developer workflows.
+Hello! I'm a passionate **Senior Software Engineer** at **ACE Data Systems** driven by building scalable systems, exploring cybersecurity, and crafting seamless developer workflows.
 
 - 🔭 **Currently Building:** Enterprise multi-tenant web applications, real-time collaboration engines, and developer automation tools.
 - 🌱 **Currently Learning:** Advanced German (Deutsch), Linux Terminal Security & Command-line challenges (OverTheWire Bandit), and 3D Modeling with Blender.
@@ -31,11 +31,11 @@ Hello! I'm a passionate **Software Engineering Student & Developer** driven by b
 | **Now** | ASP.NET Core, Spring Boot, Angular, SQL, Cloud Deployment (Vercel, Render) |
 | **Learning** | German Language, Cybersecurity / Linux Fundamentals, Blender 3D |
 | **Interests** | Backend Architecture, Web Security, Developer Tools, Guitar |
-| **Availability** | Open for Internships, Junior Software Engineering Roles & Freelance Projects |
+| **Availability** | Open to Senior Software Engineering roles, including Remote & International opportunities |
 
 ```typescript
 const kei = {
-  role: "Software Engineering student & developer",
+  role: "Senior Software Engineer at ACE Data Systems",
   learning: [
     "German (Deutsch)",
     "Linux security — OverTheWire Bandit",
@@ -47,7 +47,11 @@ const kei = {
     "Developer tools",
     "Guitar",
   ],
-  openTo: ["Internships", "Junior software engineering roles", "Freelance projects"],
+  openTo: [
+    "Senior software engineering roles",
+    "Remote opportunities",
+    "International opportunities",
+  ],
 };
 ```
 
@@ -140,7 +144,7 @@ const kei = {
 </p>
 
 <p align="center">
-  Open for internships, junior software engineering roles, and freelance projects
+  Open to Senior Software Engineering roles, including Remote &amp; International opportunities
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0:bc13fe,100:00f5ff&height=100&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontAlignY=65&animation=twinkling" width="100%" alt="Footer banner"/>
