@@ -109,6 +109,9 @@ const kei = {
 | **3dprofolio** | **React 19**, **Three.js**, React Three Fiber, Drei, **GSAP**, Framer Motion, **Tailwind** | [Repo](https://github.com/keix40/3dprofolio) · [Live](https://3dprofolio.vercel.app/) |
 | **receipt-split** | **Next.js 16**, vision **OCR** (AI SDK), cent-exact bill split, **Postgres** + Drizzle, **Vercel** | [Repo](https://github.com/keix40/receipt-split) · [Live](https://receipt-split-gamma-sable.vercel.app/) |
 | **liveboard** | **Yjs** CRDT, WebSockets, offline-first whiteboard, **Next.js** + Node sync on **Render** | [Repo](https://github.com/keix40/liveboard) · [Live](https://liveboard-lyart.vercel.app/) |
+| **AuditTrail** | Automated code review & security scanner API: **FastAPI**, sandboxed **Semgrep** / **Bandit** / **Gitleaks** scans, GitHub App PR reviews, **Postgres**, API on **Render** | [Repo](https://github.com/keix40/audittrail) · [Live API](https://audittrail-api-mo9q.onrender.com/docs) |
+| **LogPulse** | Real-time log viewer & alert bot: **Go** ingest + alert engine, **Redis Streams**, **Postgres**, live **Next.js** dashboard, Slack / Discord / Telegram alerts, **Render** + **Vercel** | [Repo](https://github.com/keix40/logpulse) · [Live](https://logpulse-web-seven.vercel.app/) · [API](https://logpulse-api-pb1p.onrender.com/healthz) |
+| **OmniFleet** | Multi-tenant fleet & logistics tracking: **Go** **gRPC** microservices, **Postgres RLS**, **NATS JetStream**, WebSocket live tracking, **Kubernetes** / **Terraform** / **Helm**, **Render** + **Vercel** | [Repo](https://github.com/keix40/omnifleet) · [Live](https://omnifleet-dashboard.vercel.app/) · [API](https://omnifleet-api.onrender.com/healthz) |
 
 <!-- PROJECT_ROW: duplicate a table row above when you ship something new -->
 
