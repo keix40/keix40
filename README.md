@@ -112,6 +112,7 @@ const kei = {
 | **AuditTrail** | Automated code review & security scanner API: **FastAPI**, sandboxed **Semgrep** / **Bandit** / **Gitleaks** scans, GitHub App PR reviews, **Postgres**, API on **Render** | [Repo](https://github.com/keix40/audittrail) · [Live API](https://audittrail-api-mo9q.onrender.com/docs) |
 | **LogPulse** | Real-time log viewer & alert bot: **Go** ingest + alert engine, **Redis Streams**, **Postgres**, live **Next.js** dashboard, Slack / Discord / Telegram alerts, **Render** + **Vercel** | [Repo](https://github.com/keix40/logpulse) · [Live](https://logpulse-web-seven.vercel.app/) · [API](https://logpulse-api-pb1p.onrender.com/healthz) |
 | **OmniFleet** | Multi-tenant fleet & logistics tracking: **Go** **gRPC** microservices, **Postgres RLS**, **NATS JetStream**, WebSocket live tracking, **Kubernetes** / **Terraform** / **Helm**, **Render** + **Vercel** | [Repo](https://github.com/keix40/omnifleet) · [Live](https://omnifleet-dashboard.vercel.app/) · [API](https://omnifleet-api.onrender.com/healthz) |
+| **MM-NameChanger** | Romanized Myanmar names → Myanmar **Unicode** script: dictionary + syllable rule engine (no AI), JSON API, CSV batch mode, **Next.js 15**, **TypeScript**, **Vercel** | [Repo](https://github.com/keix40/mm-namechanger) · [Live](https://mm-namechanger.vercel.app/) |
 
 <!-- PROJECT_ROW: duplicate a table row above when you ship something new -->
 
