@@ -113,6 +113,7 @@ const kei = {
 | **LogPulse** | Real-time log viewer & alert bot: **Go** ingest + alert engine, **Redis Streams**, **Postgres**, live **Next.js** dashboard, Slack / Discord / Telegram alerts, **Render** + **Vercel** | [Repo](https://github.com/keix40/logpulse) · [Live](https://logpulse-web-seven.vercel.app/) · [API](https://logpulse-api-pb1p.onrender.com/healthz) |
 | **OmniFleet** | Multi-tenant fleet & logistics tracking: **Go** **gRPC** microservices, **Postgres RLS**, **NATS JetStream**, WebSocket live tracking, **Kubernetes** / **Terraform** / **Helm**, **Render** + **Vercel** | [Repo](https://github.com/keix40/omnifleet) · [Live](https://omnifleet-dashboard.vercel.app/) · [API](https://omnifleet-api.onrender.com/healthz) |
 | **MM-NameChanger** | Romanized Myanmar names → Myanmar **Unicode** script: dictionary + syllable rule engine (no AI), JSON API, CSV batch mode, **Next.js 15**, **TypeScript**, **Vercel** | [Repo](https://github.com/keix40/mm-namechanger) · [Live](https://mm-namechanger.vercel.app/) |
+| **TRON Rounds** | Live archive of TRON mainnet :54-minute rounds with B/S and odd/even, sortable filters and Excel export: **Next.js 15**, **TypeScript**, **Postgres** (Neon) + Drizzle, TronGrid, **Vercel** | [Repo](https://github.com/keix40/tron-rounds) · [Live](https://tron-rounds.vercel.app/) |
 
 <!-- PROJECT_ROW: duplicate a table row above when you ship something new -->
 
